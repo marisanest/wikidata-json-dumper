@@ -4,7 +4,7 @@ Script to dump wikidata items.
 
 ### Steps
 * put all item ids you want to dump in the data/qids.csv file
-* run the script
+* run the script with command ``` python src/main.py ```
 * you can find the resulting file in data/dump.json
 
 ### Reqirements
