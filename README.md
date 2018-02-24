@@ -2,12 +2,15 @@
 
 Script to dump wikidata items.
 
-### Steps
+## Steps
 * put all item ids you want to dump in the data/qids.csv file
-* run the script with command ``` python src/main.py ```
+* run the script with command ``` python src/main.py ``` in Terminal
 * you can find the resulting file in data/dump.json
 
-### Reqirements
+## Reqirements
 * csv
 * json
 * requests
+
+## Limitations
+* only testet for Mac OS
