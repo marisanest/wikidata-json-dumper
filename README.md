@@ -11,6 +11,3 @@ Script to dump wikidata items.
 * csv
 * json
 * requests
-
-## Limitations
-* only testet for Mac OS
