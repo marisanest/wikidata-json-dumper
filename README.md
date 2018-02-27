@@ -11,8 +11,3 @@ Script to dump wikidata items.
 * csv
 * json
 * requests
-
--------------------
- x       | x       
- x       | x       
- x       | x       
