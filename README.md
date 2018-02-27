@@ -12,8 +12,7 @@ Script to dump wikidata items.
 * json
 * requests
 
-
-
+-------------------
  x       | x       
  x       | x       
  x       | x       
