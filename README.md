@@ -13,8 +13,8 @@ Script to dump wikidata items.
 * requests
 
 
-| header1 | header2 |
-|---------|---------|
-| x       | x       |
-| x       | x       |
-| x       | x       |
+ header1 | header2 
+---------|---------
+ x       | x       
+ x       | x       
+ x       | x       
