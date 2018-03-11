@@ -1,5 +1,5 @@
-import dump.dumper as d
+import dumper
 
-ids = d.extract_ids()
-dump = d.dump_ids(ids)
-d.save_dump(dump)
+ids = dumper.extract_ids()
+dump = dumper.dump_ids(ids)
+dumper.save_dump(dump)

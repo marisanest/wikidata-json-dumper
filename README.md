@@ -1,13 +1,25 @@
 # wikidata-json-dumper
 
-Script to dump wikidata items.
+Script to make a json dump for wikidata items.
 
-### Steps
-* put all item ids you want to dump in the data/qids.csv file
-* run the script
-* you can find the resulting file in data/dump.json
+## Installation
 
-### Reqirements
-* csv
-* json
-* requests
+```
+$ git clone https://github.com/marisanest/wikidata-json-dumper.git
+$ pip install -r requirements.txt
+```
+
+## Run
+
+```
+$ cp data/ids.csv.sample ids.csv
+```
+Put all item ids you want to dump in the data/ids.csv file as the example shows and run:
+```
+$ python src/main.py
+```
+You can then find the resulting file in data/dump.json.
+
+## License
+
+The source code is licensed under the terms of the GNU GENERAL PUBLIC LICENSE Version 3.
